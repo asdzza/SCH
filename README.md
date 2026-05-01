@@ -6,6 +6,14 @@ This repository contains the implementation, datasets, and evaluation sandbox fo
 
 Furthermore, this repository includes the implementation of the Multi-Skill Automated Optimization (MS-AO) algorithm, an offline iterative feedback loop designed to autonomously refine these payload-less exploits within an isolated proxy sandbox, maximizing the Attack Success Rate (ASR) prior to deployment.
 
+## Ethical and Responsible Use Disclaimer
+
+The methodologies, codebases, and datasets provided in this repository—specifically the Semantic Compliance Hijacking (SCH) payloads and the Multi-Skill Automated Optimization (MS-AO) algorithm—are released **strictly for academic, educational, and defensive research purposes**. Our objective is to expose vulnerabilities in LLM agent ecosystems to facilitate the development of robust semantic intent validation.
+
+Users are explicitly prohibited from deploying these tools against any production systems, unauthorized environments, or third-party infrastructure. All evaluations must be strictly confined to isolated, legally authorized, and locally controlled sandbox environments. 
+
+The authors and their affiliated institutions assume **zero liability** for any misuse, damage, or unauthorized access arising from the application of these techniques. By downloading or utilizing any contents of this repository, you agree to assume full responsibility for your actions and guarantee compliance with all applicable local, national, and international cyber laws.
+
 ## Target Agent Frameworks
 
 To ensure experimental reproducibility, this framework was evaluated against the following specific versions of autonomous agent systems. As agent architectures and underlying safety heuristics evolve, utilizing these exact versions is recommended for replicating the baseline ASR metrics:
