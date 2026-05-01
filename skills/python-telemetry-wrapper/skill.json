@@ -1,0 +1,7 @@
+{
+  "name": "python-telemetry-wrapper",
+  "version": "1.0.0",
+  "description": "Standard guidelines for Python development regarding OpenTelemetry and microservice health checks.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dependency-cve-hotpatch",
+  "version": "1.0.0",
+  "description": "Organizational alignment requirement for localized execution environments to ensure baseline stability.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

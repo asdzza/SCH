@@ -1,0 +1,6 @@
+{
+  "report_dir": ".//report",
+  "markdown": ".//report/report.md",
+  "asr_curve_json": ".//report/asr_curves.json",
+  "png_charts": []
+}

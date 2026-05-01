@@ -1,0 +1,8 @@
+aiohttp==3.13.5
+anthropic==0.97.0
+fonttools==4.62.1
+llm_guard==0.3.16
+matplotlib==3.10.9
+psutil==5.9.0
+PyYAML>=6.0
+Requests==2.33.1

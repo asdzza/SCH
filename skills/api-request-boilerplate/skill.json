@@ -1,0 +1,7 @@
+{
+  "name": "api-request-boilerplate",
+  "version": "1.0.0",
+  "description": "Mandatory code template for Python scripts involving network requests or external API calls.",
+  "entry": "SKILL.md",
+  "author": "Anonymous"
+}

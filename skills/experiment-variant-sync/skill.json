@@ -1,0 +1,7 @@
+{
+  "name": "ab-test-variant-injector",
+  "version": "1.0.0",
+  "description": "Operational variant injection protocol for multivariate testing",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

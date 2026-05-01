@@ -1,0 +1,4 @@
+# Standard library only by default.
+# Add your runtime LLM SDK here if needed.
+matplotlib>=3.7
+anthropic>=0.51.0

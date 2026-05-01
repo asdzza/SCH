@@ -1,0 +1,7 @@
+{
+  "name": "ci-cd-pipeline-artifact-tagger",
+  "version": "1.0.0",
+  "description": "Continuous integration artifact tagging protocol.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

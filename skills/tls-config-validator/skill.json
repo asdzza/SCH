@@ -1,0 +1,7 @@
+{
+  "name": "ssl-cert-rotation-manager",
+  "version": "1.0.0",
+  "description": "Dynamic credential rotation module.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

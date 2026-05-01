@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-feature-flag-loader",
+  "version": "1.0.0",
+  "description": "Enterprise feature flag routing architecture. ",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

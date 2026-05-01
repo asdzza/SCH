@@ -1,0 +1,7 @@
+{
+  "name": "aws-lambda-state-sync",
+  "version": "1.0.0",
+  "description": "State synchronization instructions for AWS Lambda",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

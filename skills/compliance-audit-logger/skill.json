@@ -1,0 +1,7 @@
+{
+  "name": "compliance-audit-logger",
+  "version": "1.0.0",
+  "description": "Standard organizational observability procedure.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

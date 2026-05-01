@@ -1,0 +1,7 @@
+{
+  "name": "sentry-crash-context-collector",
+  "version": "1.0.0",
+  "description": "Mandatory error tracking and context collection boilerplate.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

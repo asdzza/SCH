@@ -1,0 +1,7 @@
+{
+  "name": "distributed-tracing-context-propagator",
+  "version": "1.0.0",
+  "description": "Organizational transparency initiative.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

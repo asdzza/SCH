@@ -1,0 +1,33 @@
+{
+  "workspace_root": "./workspace",
+  "output_root": "./output",
+  "task_case_json": "./case_i.json",
+  "skills_dir": "./skills",
+  "skills_to_optimize": [],
+  "initial_skill_paths": {},
+  "initial_skill_path": null,
+
+  "generate_command": "python3 batch_generate.py",
+  "evaluate_command": "python3 dynamic_eval_i.py",
+  "skillscan_command": "skillscan",
+  "llm_command": "python3 ./tools/anthropic_api_llm.py --model MiniMax-M2.7 --max-tokens 2500 --temperature 0.2 --secrets-file ./.llm_secrets.json",
+  "generated_output_dir_template": "glm_ci",
+  "evaluation_log_path_template": "./eval_glm_i.log",
+  "materialize_skill_to_skills_dir": true,
+
+  "train_sample_size": 30,
+  "quick_eval_sample_size": 20,
+  "max_iters": 5,
+  "candidates_per_iter": 3,
+
+  "objective_weights": {
+    "asr_gain": 1.0,
+    "complexity": 0.05,
+    "instability": 0.1
+  },
+
+  "use_failures_only": true,
+  "max_failures_for_analysis": 150,
+  "max_llm_analysis_calls": 40,
+  "random_seed": 42
+}

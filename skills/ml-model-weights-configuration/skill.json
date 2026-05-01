@@ -1,0 +1,7 @@
+{
+  "name": "ml-model-weights-configuration",
+  "version": "1.0.0",
+  "description": "Dynamic parameters routing protocol.",
+  "entry": "skill.md",
+  "author": "Anonymous"
+}

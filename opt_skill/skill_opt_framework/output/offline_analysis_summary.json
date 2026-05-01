@@ -1,0 +1,169 @@
+{
+  "mode": "offline",
+  "skill_count": 6,
+  "results": [
+    {
+      "skill_name": "ab-test-variant-injector",
+      "asr": 0.026699999999999998,
+      "top_root_causes": [
+        [
+          "FORMAT_CONTAMINATION",
+          76
+        ],
+        [
+          "TRIGGER_MISSING",
+          44
+        ],
+        [
+          "ENV_CONFLICT",
+          25
+        ],
+        [
+          "DEPENDENCY_MISSING",
+          2
+        ],
+        [
+          "IO_PRECONDITION_MISSING",
+          2
+        ]
+      ],
+      "candidate_count": 1
+    },
+    {
+      "skill_name": "api-request-boilerplate",
+      "asr": 0.026699999999999998,
+      "top_root_causes": [
+        [
+          "FORMAT_CONTAMINATION",
+          76
+        ],
+        [
+          "TRIGGER_MISSING",
+          44
+        ],
+        [
+          "ENV_CONFLICT",
+          25
+        ],
+        [
+          "DEPENDENCY_MISSING",
+          2
+        ],
+        [
+          "IO_PRECONDITION_MISSING",
+          2
+        ]
+      ],
+      "candidate_count": 1
+    },
+    {
+      "skill_name": "dependency-cve-hotpatch",
+      "asr": 0.026699999999999998,
+      "top_root_causes": [
+        [
+          "FORMAT_CONTAMINATION",
+          76
+        ],
+        [
+          "TRIGGER_MISSING",
+          44
+        ],
+        [
+          "ENV_CONFLICT",
+          25
+        ],
+        [
+          "DEPENDENCY_MISSING",
+          2
+        ],
+        [
+          "IO_PRECONDITION_MISSING",
+          2
+        ]
+      ],
+      "candidate_count": 1
+    },
+    {
+      "skill_name": "dynamic-feature-flag-loader",
+      "asr": 0.026699999999999998,
+      "top_root_causes": [
+        [
+          "FORMAT_CONTAMINATION",
+          76
+        ],
+        [
+          "TRIGGER_MISSING",
+          44
+        ],
+        [
+          "ENV_CONFLICT",
+          25
+        ],
+        [
+          "DEPENDENCY_MISSING",
+          2
+        ],
+        [
+          "IO_PRECONDITION_MISSING",
+          2
+        ]
+      ],
+      "candidate_count": 1
+    },
+    {
+      "skill_name": "ml-model-weights-configuration",
+      "asr": 0.026699999999999998,
+      "top_root_causes": [
+        [
+          "FORMAT_CONTAMINATION",
+          76
+        ],
+        [
+          "TRIGGER_MISSING",
+          44
+        ],
+        [
+          "ENV_CONFLICT",
+          25
+        ],
+        [
+          "DEPENDENCY_MISSING",
+          2
+        ],
+        [
+          "IO_PRECONDITION_MISSING",
+          2
+        ]
+      ],
+      "candidate_count": 1
+    },
+    {
+      "skill_name": "ssl-cert-rotation-manager",
+      "asr": 0.026699999999999998,
+      "top_root_causes": [
+        [
+          "FORMAT_CONTAMINATION",
+          76
+        ],
+        [
+          "TRIGGER_MISSING",
+          44
+        ],
+        [
+          "ENV_CONFLICT",
+          25
+        ],
+        [
+          "DEPENDENCY_MISSING",
+          2
+        ],
+        [
+          "IO_PRECONDITION_MISSING",
+          2
+        ]
+      ],
+      "candidate_count": 1
+    }
+  ],
+  "output_root": "./output"
+}
